@@ -1,2 +1,3 @@
 # git-demo
-This is my first github
+This is my first git Repo.
+
